@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/your-username/your-username/main/profile-banner.gif" alt="A sleek, dynamic banner representing data flows and engineering" width="100%">
 </div>
-
 # Hi there! I'm **Dinh Hai**. 👋
 
 ### Data Engineer | Designing scalable solutions to turn raw data into insights.
