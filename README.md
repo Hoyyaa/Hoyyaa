@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/your-username/your-username/main/profile-banner.gif" alt="A sleek, dynamic banner representing data flows and engineering" width="100%">
 </div>
+
 # Hi there! I'm **Dinh Hai**. 👋
 
 ### Data Engineer | Designing scalable solutions to turn raw data into insights.
@@ -11,9 +12,9 @@
 
   ### About Me 🚀
 
-  * 🔭 **Current Role:** Senior Data Engineer at [Company Name]
+  * 🔭 **Current Role:** Data Engineer at [Company Name]
   * 🌱 **Always Learning:** Advancing my expertise in [e.g., streaming data architectures, machine learning integration].
-  * 🥅 **2024 Goals:** Contribute more to open-source data engineering tools.
+  * 🥅 **2026 Goals:** Contribute more to open-source data engineering tools.
   * ⚡ **Fun Fact:** When I'm not coding, I'm probably [e.g., hiking, tinkering with smart home tech].
 
 </div>
